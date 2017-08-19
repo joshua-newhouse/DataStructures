@@ -1,4 +1,3 @@
-/* Joshua Newhouse | jbn160130 | CS3345-0U1 | Project 4 */
 public class LinearProbingHashTable<K, V> {
 	private static class Entry<K, V> {
 		K key;
