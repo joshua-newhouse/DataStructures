@@ -1,5 +1,3 @@
-/* Joshua Newhouse | jbn160130 | CS3345-0U1 | Project 3 */
-
 public class BinarySearchTree<T extends Comparable<? super T>> {
 	private BinaryNode<T> root;
 	private int height;	//height of the tree
