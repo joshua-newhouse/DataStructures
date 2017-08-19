@@ -1,4 +1,3 @@
-/* Joshua Newhouse jbn160130 CS3345-0U1 Project 2 */
 import java.util.Iterator;
 import java.util.List;
 import java.util.ArrayList;
